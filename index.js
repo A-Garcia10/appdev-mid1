@@ -54,3 +54,5 @@ container.on('mouseleave', e => {
 // 4th step - Adding animation in
 // In this step just like in 2nd step i changed the addEventListener to "on".
 
+// 3rd step - Removing animation in
+//This step is also the same as the 2nd and 4th step.
