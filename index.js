@@ -42,7 +42,7 @@ container.on('mouseleave', e => {
     card.css('transform', 'rotateY(0deg) rotateX(0deg)');
 });
 // explantion
-// 1st step - setting the event to where should the animation will take effect.
+// 1st step - Movement animation to happen
 // In this step i changed document.querySelector to dollar($) sign.
 
 // 5th step - all items
